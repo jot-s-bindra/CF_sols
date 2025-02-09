@@ -1,0 +1,1 @@
+// Solution for C - Postcard\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1099/submission/305053559\n

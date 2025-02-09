@@ -1,0 +1,1 @@
+// Solution for M - Weather_Tomorrow\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/847/submission/305051717\n

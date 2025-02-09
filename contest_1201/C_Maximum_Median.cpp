@@ -1,0 +1,1 @@
+// Solution for C - Maximum_Median\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1201/submission/305057414\n

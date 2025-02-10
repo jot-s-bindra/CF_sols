@@ -1,0 +1,1 @@
+// Solution for A - Minimal_Coprime\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/2063/submission/305507817\n

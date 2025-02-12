@@ -1,0 +1,1 @@
+// Solution for A - Grass_Field\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1701/submission/305528810\n

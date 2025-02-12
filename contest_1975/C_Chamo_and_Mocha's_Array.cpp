@@ -1,0 +1,1 @@
+// Solution for C - Chamo_and_Mocha's_Array\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1975/submission/305533101\n

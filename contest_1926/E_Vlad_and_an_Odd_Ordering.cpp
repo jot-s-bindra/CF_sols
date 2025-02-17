@@ -1,0 +1,1 @@
+// Solution for E - Vlad_and_an_Odd_Ordering\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1926/submission/306439811\n

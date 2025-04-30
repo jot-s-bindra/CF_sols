@@ -1,0 +1,1 @@
+// Solution for C - News_Distribution\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1167/submission/316745562\n

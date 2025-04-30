@@ -1,0 +1,1 @@
+// Solution for A - Fair\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/986/submission/316626374\n

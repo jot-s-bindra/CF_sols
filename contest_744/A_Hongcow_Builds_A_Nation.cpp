@@ -1,0 +1,1 @@
+// Solution for A - Hongcow_Builds_A_Nation\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/744/submission/316755432\n

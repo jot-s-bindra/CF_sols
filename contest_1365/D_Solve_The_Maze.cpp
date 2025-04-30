@@ -1,0 +1,1 @@
+// Solution for D - Solve_The_Maze\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1365/submission/317397807\n

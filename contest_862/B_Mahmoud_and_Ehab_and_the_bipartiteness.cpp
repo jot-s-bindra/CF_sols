@@ -1,0 +1,1 @@
+// Solution for B - Mahmoud_and_Ehab_and_the_bipartiteness\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/862/submission/316382052\n

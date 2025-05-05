@@ -1,0 +1,1 @@
+// Solution for D - Nearest_Excluded_Points\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1651/submission/318109900\n

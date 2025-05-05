@@ -1,0 +1,1 @@
+// Solution for B - Quantity_of_Strings\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/150/submission/318307575\n

@@ -1,0 +1,1 @@
+// Solution for B - Greg_and_Graph\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/295/submission/318051643\n

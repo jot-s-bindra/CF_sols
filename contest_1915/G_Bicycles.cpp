@@ -1,0 +1,1 @@
+// Solution for G - Bicycles\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1915/submission/318081550\n

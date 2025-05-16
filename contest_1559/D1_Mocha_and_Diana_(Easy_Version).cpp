@@ -1,0 +1,1 @@
+// Solution for D1 - Mocha_and_Diana_(Easy_Version)\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1559/submission/319663422\n

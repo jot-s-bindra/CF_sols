@@ -1,0 +1,1 @@
+// Solution for B - Hierarchy\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/17/submission/320258570\n

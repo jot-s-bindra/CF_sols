@@ -1,0 +1,1 @@
+// Solution for E - Replace_With_the_Previous,_Minimize\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1675/submission/320227386\n

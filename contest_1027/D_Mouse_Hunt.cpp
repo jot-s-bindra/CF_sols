@@ -1,0 +1,1 @@
+// Solution for D - Mouse_Hunt\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1027/submission/320655157\n

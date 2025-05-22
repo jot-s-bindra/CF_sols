@@ -1,0 +1,1 @@
+// Solution for C - Checkposts\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/427/submission/320697996\n

@@ -1,0 +1,1 @@
+// Solution for D - Distinct_Characters_Queries\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/1234/submission/323162539\n

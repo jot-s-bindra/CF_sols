@@ -1,0 +1,1 @@
+// Solution for D - Xenia_and_Bit_Operations\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/339/submission/323178681\n

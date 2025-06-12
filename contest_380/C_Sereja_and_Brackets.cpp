@@ -1,0 +1,1 @@
+// Solution for C - Sereja_and_Brackets\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/380/submission/323979831\n

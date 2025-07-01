@@ -1,0 +1,1 @@
+// Solution for C - Little_Girl_and_Maximum_Sum\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/276/submission/326773099\n

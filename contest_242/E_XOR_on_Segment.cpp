@@ -1,0 +1,1 @@
+// Solution for E - XOR_on_Segment\n// Source code unavailable from API\n// Submission Link: https://codeforces.com/contest/242/submission/328440405\n
